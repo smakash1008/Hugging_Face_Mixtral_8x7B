@@ -1,0 +1,397 @@
+
+Text Extracted: Mayank Agarwal 
+Email: mayanka512@gmail.com 
+Mobile: 9560186741 
+
+Professional Summary: 
+
+  Having 10.5 years of IT experience as an Oracle DBA and currently working with Oracle Solution 
+
+Service India (Designation: Principal Consultant) 
+
+  Hands on experience on migration of database using GoldeGate. 
+  Hands on experience on installation and configuration GoldenGate Veridata. 
+  Hands on experience in Data guard configuration and administration on RAC and Standalone. 
+  Hands on experience in managing ASM. 
+  Having good exposure on Oracle Database Architecture and Oracle 10g, 11g, 12c, 19c features. 
+  Managing Oracle Instance, Database Storage Structure, Schema Objects. 
+  Hands on experience in manage the Database user’s and Oracle Security Features. 
+  Hands on experience with database Backup and Recovery procedures using RMAN. 
+  Hands on experience with database Backup and Recovery procedures using offline/online. 
+  Having experience in Migration, Upgradation the database servers to Oracle 11g, 12c, 19c. 
+  Quarterly patch applied on Standalone, RAC and Dataguard databases. 
+ 
+Installation and configuration of Oracle databases on RAC and Standalone. 
+ 
+Installing, Maintaining & Troubleshooting on Golden Gate. 
+  Extensively used Oracle utilities like Export / Import, Data pump. 
+  Monitoring and optimizing the Database Performances through AWR, ASH.  
+  Strong understanding and experience of High Availability (HA) and Disaster Recovery (DR) op-
+
+tions. 
+Installing and Maintaining OEM 12c/13c. 
+
+ 
+  Worked in UNIX shell scripting for refresh automation, scheduling backup, database monitoring, 
+
+backup verification and weekly reporting and able to write small scripts. 
+  Highly motivated with strong commitment to quality and customer service. 
+  Strong interpersonal skills, ability to interact with people at all levels. 
+  Ability to operate successfully in multi-tasked environment. Documentation and team leadership 
+
+skills. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Professional Experience: 
+
+  Working as Principal Consultant in Oracle India from 12th Oct’23 – till date. 
+  Worked as Associate Consultant in HCL Technologies from 14th Jan’22 – 11th Oct’23. 
+  Worked as Lead Administrator in Wipro Ltd from 29th Sept’21 – 12th Jan’22. 
+  Worked as Lead DBA in Tech Mahindra from 10th Apr’19 – 27th Sept’21. 
+  Worked as Oracle DBA in Infogain India Pvt Ltd from 5th May’16 to 4th Apr’19. 
+  Worked as Oracle Database Administrator for Wipro Ltd from 18th Nov’13 to 29th Apr’16. 
+
+Project Summary: 
+Project 1: 
+
+Client 
+Duration 
+Role 
+Organisation 
+
+ : Standard Bank of South Africa 
+ : Oct’2023 to till date 
+ : Principal Consultant 
+ : Oracle Solution Service India 
+
+Responsibilities: 
+
+ 
+
+Installation and Configuration of GoldenGate 21c Microservices. 
+
+  Configuration  of  replication  process  between  ExaCC  (Source  database)  to  Exadata  (Target 
+Database). 
+
+ 
+
+Installation and Configuration of GoldenGate Veridata 12.2.1.4.0. 
+
+  Configuration  of  compare  pair  in  GoldenGate  Veridata  between  source  database  and  target 
+database. 
+
+  Generating data compare pair reports using GoldenGate Veridata for data check. 
+
+  Monitoring and Troubleshooting of GoldenGate and Veridata. 
+
+  Actively participating in production cutover activity.  
+
+Project 2: 
+
+Client 
+Duration 
+Role 
+Organisation 
+
+ : Nordea Bank, Denmark 
+ : Jan’2022 to till date 
+ : Associate Consultant 
+ : HCL Technologies 
+
+Responsibilities: 
+
+  Managing Oracle Database version 11g, 12c, 19c on both RAC, Standalone, Exadata. 
+  Managing Active Dataguard & Physical Standby. 
+  Setup & Managing  Goldengate version 12c, 19c. 
+  Upgrading Goldengate to 19c. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+ 
+  DR drill using Dataguard Broker & Manual Switchover. 
+  Build new databases (RAC & Standalone). 
+  Database upgrade from 12c to 19c. 
+  Database patching on 19c. 
+  Database migration using RMAN, Datapump, Goldengate. 
+  Re-build Standby Database. 
+  Working on daily Change Request(CR). 
+ 
+ 
+  Managing Team and assigning task to individual. 
+  Working in complex environment & adhere all policies. 
+  Production Support. 
+
+Interacting with user’s to resolve their issue/task. 
+Involving in outage call to resolve issue within SLA. 
+
+Project 3: 
+
+Client 
+Duration 
+Role 
+Organisation 
+
+: AT&T, USA 
+: April 2019 - Sept’2021 
+: Lead DBA 
+: Tech Mahindra 
+
+Responsibilities: 
+
+  Managing Oracle Database version 10g, 11g, 12c, 19c on both RAC, Standalone, ExaCM. 
+  Managing Active Dataguard & Physical Standby. 
+  Setup & Managing  Goldengate version 12c, 19c. 
+  Upgrading Goldengate to 19c. 
+  DR drill using Dataguard Broker & Manual Switchover. 
+  Build new databases (RAC & Standalone). 
+  Database upgrade from 12c to 19c. 
+  Database patching on 12c, 19c. 
+  Database migration on Azure(Cloud) using RMAN. 
+  Re-build Standby Database. 
+  Working on daily Change Request(CR). 
+ 
+ 
+  Managing Team and assigning task to individual. 
+  Working in complex environment & adhere all policies. 
+  Production Support. 
+
+Interacting with user’s to resolve their issue/task. 
+Involving in outage call to resolve issue within SLA. 
+
+Project 4: 
+
+Client 
+Duration 
+
+: Netapp, USA 
+: May 2016 - April 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Role 
+Organisation 
+
+: Technical Consultant 
+: Infogain India Pvt Ltd 
+
+Responsibilities: 
+
+  Managing Oracle Database version 11g, 12c on both RAC, Standalone. 
+  Managing Active Dataguard & Physical Standby. 
+  Setup & Managing  Goldengate version 12c. 
+  Database upgrade from 11g to 12c. 
+  Database patching on 12c. 
+  Database migration using RMAN, Datapump, Goldengate. 
+  Re-build Standby Database. 
+  Working on daily Change Request(CR). 
+ 
+ 
+  Production Support. 
+
+Interacting with user’s to resolve their issue/task. 
+Involving in outage call to resolve issue within SLA. 
+
+Project 5: 
+
+Client: 
+Duration 
+Role 
+Organisation: 
+
+: MTS, India 
+: Nov’2013 - April 2016 
+: ORACLE DBA 
+: Wipro Ltd 
+
+Responsibilities: 
+
+  Managing Oracle Database version 10g, 11g on both RAC, Standalone, Exadata. 
+  Managing Active Dataguard & Physical Standby. 
+  Setup & Managing  Goldengate version 12c. 
+  Upgrade Goldengate from 11g to 12c. 
+  Database upgrade from 11g to 12c. 
+  Database patching on 11g, 12c. 
+  Database migration using RMAN, Datapump. 
+  Re-build Standby Database. 
+  Working on Change Request(CR). 
+ 
+  Production Support. 
+
+Interacting with user’s to resolve their issue/task. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Technical Skills:  
+
+Operating System 
+
+      : UNIX on (Sun Solaris, HP-UX, AIX), Linux 
+
+RDBMS 
+
+Golden Gate 
+
+Exadata  
+
+Scripting 
+
+DBA Tools 
+
+Backup Tool 
+
+      : ORACLE Server 10g, 11g, 12c, 19c 
+
+      : 11g, 12c, 19c, 21c, Veridata 
+
+      : Quarter RAC, Half RAC (Basic) 
+
+      : Shell scripting 
+
+      : Toad, SQL*PLUS 
+
+      : RMAN, Datapump 
+
+Ticketing Tools  
+
+      : Service Now, Remedy 
+
+Certification: 
+
+  Oracle Database Administration 2019 Certified Professional. 
+  Oracle GoldenGate 12c Certified Implementation Specialist. 
+  Oracle Cloud Infrastructure 2023 Certified Architect Associate. 
+
+Education Summary: 
+
+Bachelor of Technology (Electronics & Comm.) 
+
+  Moradabad  Institute  of  Technology,  Moradabad.  Affiliated  to  UP  Technical  University,  Lucknow, 
+
+U.P. (2006-2010) aggregate of 65 %. 
+
+Intermediate 
+
+  G.D. Birla Memorial School, Ranikhet (77%) 
+
+Matriculation 
+
+  Saraf Public School, Khatima (64.2%)  
+
+Hobbies / Strengths: 
+
+Hobbies: Playing Table Tennis & Badminton, Interacting with people, Internet surfing. 
+
+Strengths: Self Confident, Responsible, Leadership Quality. 
+
+Personal Details: 
+
+Father’s Name: Mr. Manoj Agarwal 
+Date of Birth: 5 Dec 1988 
+Address: A/UC-1204, TOWER-A 12th Floor, ADITYA URBAN CASA, SECTOR-78, NOIDA, UTTAR 
+PRADESH - 201301 
+Nationality: Indian 
+Marital Status: Married 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Extract the Name, Email Address, Phone Number, Companies Worked, Educational Institutions and Total Years of Work Experience from the above text extracted. Give it in Json Format strictly. For the Educational Institutions and Comapnies Worked give the names alone strictly. Dont change the order strictly and dont assign anything other than this compulsorily. Dont assign the city name along with Educational Institutions name strictly. The final data should follow the following order strictly. The final order is Name, Email Address, Phone Number, Companies Worked, Educational Institutions and Total Years of Work Experience. Give all the Educational Institutions strictly without fail. Dont assign anyother unrelated details in the final data Educational Institutions strictly. I strictly needed the final data in the key value pair. Follow all the commands in the prompt strictly. Mention the type of the data in the final data strictly for all the iterations without fail such as ```json, ```, etc..
+
+```json
+{
+  "Name": "Mayank Agarwal",
+  "Email": "mayanka512@gmail.com",
+  "Phone Number": "9560186741",
+  "Companies Worked": ["Oracle Solution Service India", "HCL Technologies", "Wipro Ltd", "Tech Mahindra", "Infogain India Pvt Ltd", "Wipro Ltd"],
+  "Educational Institutions": ["Moradabad Institute of Technology", "G.D. Birla Memorial School", "Saraf Public School"],
+  "Total Years of Work Experience": "10.5"
+}
+```

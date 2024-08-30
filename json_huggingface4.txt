@@ -1,0 +1,301 @@
+
+Text Extracted: ANIRUDHA PADHY 
+
+CLOUD DATABASE CONSULTANT 
+
+DBA professional; Targeting assignments in Oracle Database 
+Administration/Maintenance with an organization of repute 
+
+Attach Photo 
+
+LinkedIn: https://www.linkedin.com/in/anirudha-padhy-
+7b747a60/ 
+
+padhyanirudha@yahoo.in 
+
++91-8123950380 
+
+Oracle Autonomous Database Specialist 
+
+Certified in 2023 
+
+Oracle Golden Gate 12c Certified 
+
+Implementation Specialist in 2023 
+
+Project Undertaken  
+ (IT Product Organization.) 
+
+--------------------------------------------------------------------------- 
+
+Profile Summary 
+Offering over 9.7 years of experience in DBA with Cloud Migration 
+
+Title: Shared 
+Cloud Service IO 
+Project 
+
+Environment: 
+Oracle 8i, 9i, 
+10g, 11g & 12c 
+
+Mar'20 – Till  
+
+Jan’15-Mar’20 
+
+Oracle Cloud 
+Jun’10 – Dec’13 
+Infrastructure 
+Construction 
+Project 12c, 
+18c & 19c 
+ATP Database 
+
+  Expert at managing data mappings for reports and web applications, data 
+dictionaries, and entity relationship diagrams in support of the logical and 
+conceptual  relationships  of  data  and  database  changes;  installation  and 
+configuration of Oracle Database 12c, 18c,19c & Autonomous Database 
+  Knowledge of Oracle Database Architecture, Exadata X8-2 quarter Rack 
+Machine, JIRA & Service Now, AWR, SQLT, SQLHC, COE, and AHF report 
+for performance monitoring.  
+
+  Technical  analyst  with  expertise  in  engaging,  challenging,  and  motivating 
+individuals; track record of  ensuring that the team provided a responsive 
+and efficient service to internal and external customers 
+
+  Extensive  experience  in  Performance  Tuning  of  Databases,  Capacity 
+Planning,  Disaster  Recovery  Planning,  Backup  and  Recovery,  and 
+Configuration  of  Standby  Databases  for  ensuring  business  continuity,  DR 
+activity & patch management. 
+
+  Understanding of ITIL processes like change management, ORACLE SR, and 
+
+CAB approval prior to Production DB activity 
+
+  Undertook strategy planning and implementation which had an impact on 
+technology  direction  for  the  division  and  business  segment;  managed 
+workload and multiple priorities in a fast-paced environment 
+
+  Expertise  in  planning,  scheduling,  and  managing  Oracle  RMAN-based 
+
+backup, restore, recovery strategy, and Logical backup expdp/impdp 
+
+  Worked on AWS RDS, S3, OCI console, Object Storage, ASM & ASM Disk 
+Groups, RAC Database with two node data guard environment; generated 
+database reports using OEM/OCM, Migration from on premise to Oracle 
+Cloud and Oracle Cloud to Autonomous Database. 
+
+  Migrated Multi-terabyte (TB) Analytics and Reporting database Systems to 
+Oracle 12cR2 to 18c/19c Real Application Clusters (RAC) on Storage Area 
+Network (SAN) running on the Linux Platforms.  
+
+  An effective leader with proven expertise in leading teams during the project 
+phase, training & guiding team members and enabling knowledge sharing 
+among the team 
+
+Core Competencies  
+
+Database Administration (DBA) 
+
+Oracle DBA 
+
+Technology Roadmap 
+
+Database Design 
+
+Database Maintenance & Support 
+
+Extract, Transform & Load (ETL) 
+
+Database Architecture 
+
+Database Capacity 
+
+DB Rollbacks 
+
+IT Skills 
+
+Databases 
+
+Oracle10g,11g,12c,18c &19c multitenant Arch, Postgre Database, AWS RDS,ATP  
+
+Tools & Utilities 
+
+SQLT,AHF,SQLHC,COE ,RMAN, AWR, SecureCRT, DataPump, OEM, ADDM, Exachk 
+
+Ticketing Tool 
+
+JIRA, Service Now 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organization Experience 
+
+Since Mar’20 with Oracle India Ltd, Bangalore as Senior Cloud Database Consultant 
+
+Key Result Areas: 
+
+  Led the creation and maintenance of all databases required for development, testing, training, and production usage 
+  Liaising with the Infrastructure Team for capacity planning of databases as well as ensuring that new product usage or 
+
+release upgrades and quarterly patches take place with minimal impact. 
+
+  Performing database and application both as required assisting performance and ensuring maximum availabilities. 
+  Monitoring the administration of all database objects including tables, clusters, indexes, views, sequences, packages, and 
+
+procedures; assessing the impact of changes made to database objects 
+
+  Working on the roadmap to migrate the Oracle Cloud Database to an Autonomous Transaction Processing Database. 
+
+Highlights: 
+
+  Planned and implemented measures for backup and recovery of the Oracle databases and ATPs 
+  Controlled  migrations  of  programs,  database  changes,  reference  data  changes,  and  menu  changes  through  the 
+
+development life cycle 
+
+  Enforced security of all the Oracle Databases; maintained database constraints to ensure the integrity of the database 
+  Instituted  standards  to  ensure  that  application  design  and  code  were  produced  with  proper  integrity,  security,  and 
+
+performance; regularly reviewed design and code to ensure that site standards were adhered to 
+
+ Project Handled 
+
+Since Mar’20  
+Product 
+Environment 
+
+Key Result Areas: 
+
+  Oracle India Pvt. Ltd. 
+
+                          Senior Cloud DB Migration Engineer   
+
+Cloud Infrastructure Construction Project(Primavera P6 & UNIFIER Product) 
+
+  Oracle 12c,18c,19c RAC, Autonomous Database, LINUX, Kubernetes Cluster 
+
+  Actively working on migration project Non-Cloud Platform to Oracle Cloud Infrastructure (12c to 18c/19c) 
+  Deployed new Oracle engine to Oracle Cloud and configured ODI tool to run ETL jobs. Configuring backup strategy for 
+
+databases and giving end-to-end support to clients.   
+
+  Worked  extensively  on  performance  tasks  using  SQLT  (XTRACT,  XCUTE,  PROFILE)  SQL  Plan  Transport,  SBM,  SPM 
+package, AHF, Histogram, SQL Patch, SQL Profile, TKPROF, Secure CRT tool, AWR, SQL Tuning Advisor, SQL Tune Task 
+  Led the setup and configuration of Oracle Physical Standby Database (Data Guard) with high-performance protection, 
+
+working on two-node RAC database operations like cluster availability, load balancing, PSU and RUP patching,  
+
+Jan’15-Mar’20  
+Project 
+Environment 
+
+Key Result Areas: 
+
+  Accenture Solution Pvt. Ltd. 
+
+Shared Cloud Service 
+
+       Cloud Operation Analyst 
+
+  Oracle 8i,9i ,10g,11g and 12c, RAC, Postgre, LINUX, 
+
+  Managed and monitored Oracle Users, Roles, and Privileges & and created Database Objects, Data File Objects including 
+
+Tablespace and Data Files, Object Sizing  
+
+  Administrated planning, scheduling, and management of Oracle RMAN-backup, restore, recovery strategy, database & 
+
+and schema refresh using Expdp &  Impdp utilities 
+
+  Monitored the performance of databases daily by resolving the issues related to SGA components, File systems usage, 
+releasing blocking sessions, lock waits undo, temp space issues, and so on; worked on a maintenance plan for the future 
+availability of storage on user’s tablespaces 
+
+  Applied PSU patches quarterly basis recommended by Oracle for fixing bugs and vulnerabilities; worked on database up 
+gradation  from  lower  version  11g  to  higher  version  12c  and cloning  the  databases  using  RMAN  Duplication  and  Hot 
+Cloning Method 
+
+  Managing  different  restore  and  recovery  scenarios  using  RMAN  like  partial  database  restore  cross-database  restore, 
+conversion from non-ASM database to ASM database, and DNFS implementation for providing better performance in the 
+I/O level and reducing CPU utilization incident. 
+
+Academic Details 
+
+  MCA (Master of Computer Application) from Indira Gandhi National Open University in 2013 
+  BCA (Bachelor of Computer Application) from Indira Gandhi National Open University in 2011 
+
+Personal Details 
+
+DOB: 3rd March 1987 
+Languages Known: English, Hindi &Oriya 
+Address: 10/5-5 9th Cross Lakshmi Layout Gandhi Nagar, Munekolala Bangalore-560037 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Extract the Name, Email Address, Phone Number, Companies Worked, Educational Institutions and Total Years of Work Experience from the above text extracted. Give it in Json Format strictly. For the Educational Institutions and Comapnies Worked give the names alone strictly. Dont change the order strictly and dont assign anything other than this compulsorily. Dont assign the city name along with Educational Institutions name strictly. The final data should follow the following order strictly. The final order is Name, Email Address, Phone Number, Companies Worked, Educational Institutions and Total Years of Work Experience. Give all the Educational Institutions strictly without fail. Dont assign anyother unrelated details in the final data Educational Institutions strictly. I strictly needed the final data in the key value pair. Follow all the commands in the prompt strictly. Mention the type of the data in the final data strictly for all the iterations without fail such as ```json, ```, etc..
+
+```json
+{
+  "Name": "Anirudha Padhy",
+  "Email Address": "padhyanirudha@yahoo.in",
+  "Phone Number": "+91-8123950380",
+  "Companies Worked": ["Oracle India Ltd", "Accenture Solution Pvt. Ltd."],
+  "Educational Institutions": ["Indira Gandhi National Open University"],
+  "Total Years of Work Experience": 9.7
+}
+```

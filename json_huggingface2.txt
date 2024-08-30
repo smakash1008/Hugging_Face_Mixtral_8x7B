@@ -1,0 +1,179 @@
+
+Text Extracted: Akash S M
+
+Mobile: +91 8778382832; e-mail: smakash10081998@gmail.com
+
+
+
+
+
+Hadoop Developer having good hands-on experience and understanding of distributed file systems of Big Data and its Ecosystems.
+
+Professional Summary
+
+	Developer with 2 years experience in Big Data Hadoop development.
+
+		Having a strong hands-on experience in Big Data technologies (Core Hadoop, Sqoop, Hive, Spark core, Spark SQL and Oozie)
+
+	Better Understanding of Hadoop Ecosystem and its major components.
+
+	Imported & exported the RDBMS tables using SQOOP.
+
+	Having good experience in loading the HIVE tables from HDFS and Local File System.
+
+	Developed Hive Queries to parse the raw data.
+
+		Experience in creating the External & Managed tables and loading the data in the External and Managed Tables.
+
+	Performed the performance tuning in HIVE using the Partitioning & Bucketing concepts.
+
+	Experience in working with the Different file formats like Textfile, ORC, Parquet and JSON.
+
+	Worked in performing the Schema Evolution in Hive.
+
+		Good experience on Apache Spark open-source data analytics cluster computing framework..
+
+	Developed Oozie workflow for orchestration and scheduling the jobs.
+
+		Excellent communication, inter-personal skills, analytical skills and strong ability to perform as part of a team.
+
+Technical Skills
+
+Big Data Ecosystems
+
+Map Reduce, HDFS, Spark, Hive, Oozie, Sqoop
+
+Database
+
+SQL, Oracle
+
+Programming Languages
+
+Python
+
+Framework
+
+Hadoop MapReduce, Spark
+
+Operating Systems
+
+Linux, Windows
+
+Development Tools
+
+Pycharm
+
+Distribution
+
+Hortonworks
+
+
+
+
+
+Educational Qualification:
+
+
+
+B.Tech (IT)
+
+2020
+
+Anna University (Meenakshi Sundararajan Engineering College)
+
+7.3 Cgpa
+
+Higher Secondary
+
+2016
+
+New Prince Matriculation Higher Secondary School
+
+92%
+
+Secondary
+
+2014
+
+New Prince Matriculation Higher Secondary School
+
+98%
+
+
+
+Career Graph:
+
+
+
+EzeeScore Technologies Pvt Ltd., Chennai 
+
+2021 Feb to 2023 Feb
+
+Projects
+
+KnowMe Analytics and Visualization
+
+		Role	: Developer
+
+		Domain	: Tourism and Travel
+
+	Technologies : Hadoop, Map Reduce, HDFS, Hive, Sqoop, Pyspark
+
+	Duration : Oct 2021 - Feb 2023
+
+	Description : Developed a tool to analyze and process the data present in the RDBMS and Amazon S3 using Spark and help the client to improve the services to their tourists.
+
+Created a dashboard and updated analytics and visualization data regularly.
+
+Responsibilities Held:
+
+	Understand the technical functionality.
+
+	Use Sqoop to inject the data from database.
+
+	Validate the imported data.
+
+	Create hive tables using the Spark.
+
+	Process the data using Spark.
+
+	Fix defects and deliver the code within SLA.
+
+	Update client dashboard with analytics and visualization data. Reference:
+
+Mr. Paari Elangovan, Director – Product Development,
+
+EzeeScore Technologies Private Limited,
+
+Chennai. Phone: +91 91766 33399
+
+Personal Profile:
+
+		Date of Birth	: 10th August 1998
+
+		Gender	: Male
+
+		Marital Status	: Single
+
+		Nationality	: Indian
+
+	Language Known : English and Tamil
+
+	
+
+	Date:
+
+	Place:
+
+Extract the Name, Email Address, Phone Number, Companies Worked, Educational Institutions and Total Years of Work Experience from the above text extracted. Give it in Json Format strictly. For the Educational Institutions and Comapnies Worked give the names alone strictly. Dont change the order strictly and dont assign anything other than this compulsorily. Dont assign the city name along with Educational Institutions name strictly. The final data should follow the following order strictly. The final order is Name, Email Address, Phone Number, Companies Worked, Educational Institutions and Total Years of Work Experience. Give all the Educational Institutions strictly without fail. Dont assign anyother unrelated details in the final data Educational Institutions strictly. I strictly needed the final data in the key value pair. Follow all the commands in the prompt strictly. Mention the type of the data in the final data strictly for all the iterations without fail such as ```json, ```, etc..
+
+```json
+{
+    "Name": "Akash S M",
+    "Email Address": "smakash10081998@gmail.com",
+    "Phone Number": "+91 8778382832",
+    "Companies Worked": ["EzeeScore Technologies Pvt Ltd."],
+    "Educational Institutions": ["Anna University (Meenakshi Sundararajan Engineering College)", "New Prince Matriculation Higher Secondary School"],
+    "Total Years of Work Experience": 2
+}
+```

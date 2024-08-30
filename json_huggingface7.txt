@@ -1,0 +1,209 @@
+
+Text Extracted: Vinodhini Raviprasad 
+
+SDET LEAD 
+
+Profile Summary 
+
+Solution-focused SDET Lead with overall 9.11 years of experience in 
+diverse fields of Health care, Banking and Telecom industries w.r.t 
+Functional and Non-Functional quality process. Develops rigorous 
+testing frameworks from scratch producing exceptional final products 
+with perfect validation of application, proper estimation and sizing. 
+Complex problem-solver with analytical and driven mindset. Has 
+polyglot skills towards technology which will be helping in improving 
+organisation values 
+
+Test Lead, Eli Lilly and Company, Bengaluru 
+
+JANUARY 2022 — PRESENT 
+
+●  Partner with different stake holders - Product Management, 
+
+Application Development, DevOps and other technical teams in 
+planning and coordination  
+
+●  Have good hands on experience in iOS, Android and ipad device 
+
+testing both real devices and emulators  
+
+●  Built an single stop SDET framework with Cypress, Sauce labs, 
+Appium,  Grafana K6, AWS, Power BI to achieve Automation, 
+Performance and API Testing to cover Web Testing, Mobile 
+Testing , API Testing and Performance Testing of E2E Application 
+where Java script, json were used 
+
+●  Worked in AI lead solutions and improved the performance with 
+quality assurance on all dimensions [manual, automation (web, 
+desktop and mobile), API and performance testing].  
+
+●  Implemented performance metrics and prepared periodic reports in 
+
+managing QA Team to attain QA Goals.  
+
+●  Developed Testing Frameworks from different tech stack and 
+implemented in projects and maintained with various versions 
+using GIT  
+
+●  Showcased clear Architecture of Testing approach based on the 
+product needs has ability to collaborate , brainstorm and suggest 
+tools and tech then and there which reduced time and effort of the 
+SDET team  
+
+●  Trained and coached SDET team on new tools and technology 
+trending in market in Manual Testing, Automation Testing , API 
+Testing, Data Base Testing with SQL queries and Performance 
+testing.  
+
+●  Mentoring team of 6 QA Engineers on Test Automation and NFA 
+(Non-Functional Assurance) providing quick estimates, sizing and 
+planning 
+
+●  Providing individual contributions and managing team deliverables 
+
+as an Automation Tech Lead  
+
+Details 
+
+Bengaluru, India 
++91-8056110859 
+vinodhiniraviprasad@gmail.com 
+
+Technical Skills 
+
+Java, Java Script, Vba, Vbs 
+
+Cypress, Selenium, HP UFT, 
+SauceLabs 
+
+TestNG, Maven, Cucumber, 
+Mocha Chai 
+
+Postman API, Grafana K6, 
+JMeter, LoadRunner 
+
+AWS, Power Automate, Power 
+BI, SQL 
+
+Jenkins, GitActions 
+
+Git, GitLabs AWS, Figma 
+
+Management Utilities 
+
+Jira, Xray, Agile, Scrum, Slack, 
+Confluence, HP ALM 
+
+Problem Solving 
+
+Agile Project Management 
+
+Leadership 
+
+Strengths 
+
+Explorer, Consistent, 
+
+Optimist 
+
+Hobbies 
+
+Gardening, Cooking different 
+cuisines, Glass Paintings 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+
+ Responsible for hiring and mentoring QA Engineers and providing 
+end-to-end Quality Assurance, making quick and reliable software 
+release 
+
+●  Managed Testing COE and Released newsletter for all the POC 
+
+post Validation on new tools and technology 
+
+Associate Test  Lead, Maveric Systems, Chennai 
+
+JUNE 2014 — DECEMBER 2021 
+
+●  Derived Metrics Dashboard with Power BI to visualise the effective 
+
+use of Automation practice in different projects governance.  
+
+●  Created Chat bots using Power Automate Adaptive cards for QA 
+
+process assist 
+
+●  Contributed as an Individual Automation Engineer on multiple 
+
+projects such as  Vodafone Qatar, CITI Bank Mexico, CITI Bank 
+APAC 
+
+●  Delivered quality Automation Framework which run on cron job to 
+achieve Unattended Automation Testing using Jenkins (CI/CD) 
+
+●  Worked on Improving and creation on frameworks with UFT and 
+Selenium with BDD and Hybrid driven along with Selenium Grid 
+●  Trained in Load Runner and JMeter performed Load Testing, Peak 
+
+Testing, stress , spike, endurance testing 
+
+●  Created an SharePoint tool for Project Management of various 
+
+Projects  
+
+●  Created Macro based tools which drive as an input for computing 
+Metrics and Measurement and macro autogenerating test case 
+preparation tool 
+
+●  On the initial phase as an Intern show cased best performance in 
+the Training batch on technical acceleration and Automation 
+Framework upgradation 
+
+Education 
+
+Bachelor of Technology in Information Technology, Sethu Institute 
+of Technology, Virudhunagar Dist. 
+
+MAY 2010 — MAY 2014 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Extract the Name, Email Address, Phone Number, Companies Worked, Educational Institutions and Total Years of Work Experience from the above text extracted. Give it in Json Format strictly. For the Educational Institutions and Comapnies Worked give the names alone strictly. Dont change the order strictly and dont assign anything other than this compulsorily. Dont assign the city name along with Educational Institutions name strictly. The final data should follow the following order strictly. The final order is Name, Email Address, Phone Number, Companies Worked, Educational Institutions and Total Years of Work Experience. Give all the Educational Institutions strictly without fail. Dont assign anyother unrelated details in the final data Educational Institutions strictly. I strictly needed the final data in the key value pair. Follow all the commands in the prompt strictly. Mention the type of the data in the final data strictly for all the iterations without fail such as ```json, ```, etc..
+
+```json
+{
+  "Name": "Vinodhini Raviprasad",
+  "Email Address": "vinodhiniraviprasad@gmail.com",
+  "Phone Number": "+91-8056110859",
+  "Companies Worked": ["Eli Lilly and Company", "Maveric Systems"],
+  "Educational Institutions": ["Sethu Institute of Technology"],
+  "Total Years of Work Experience": 9.11
+}
+```
